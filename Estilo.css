@@ -1,0 +1,33 @@
+body{
+    background-color: plum;
+}
+h1{
+    color: white;/*para ponerle color a la letra*/
+    font-size: 35px;/*determinar el tamaño de la letra*/
+    font-family: 'Times New Roman';/*para poner el tipo de letra*/
+    font-weight: normal;/*para ponerle negrita*/
+    font-style: italic;/*para ponerle cursiva o que se incline*/
+    text-align: left;/*para centraal el texto*/
+    text-decoration: double;/*para subrayar*/
+
+}
+
+p{
+    color: cornsilk;
+    font-size: 25px;
+    font-family:  Times, serif;
+    font-style: italic;
+    text-align: center;
+    line-height: 25px; /*determinar la altura de la linea del texto*/
+    letter-spacing: normal;/* aumenta o disminuye el espacio entre las letras*/
+    word-spacing: normal;/**/
+}
+
+footer{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    background-color:rgb(255, 187, 61);
+    text-align: center;
+
+}
